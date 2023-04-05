@@ -1,4 +1,0 @@
-# zkshanghai-workshop
-yes
-
-dabaie
